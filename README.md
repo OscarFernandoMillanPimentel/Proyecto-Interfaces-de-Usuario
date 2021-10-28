@@ -19,7 +19,7 @@ Repositorio para el Proyecto del Curso de Interfaces de Usuario
 
 | Tecnologia | Versión                                                               |
 |------------|-----------------------------------------------------------------------|
-| Node Js    | [`14.17.0`](https://nodejs.org/en/blog/release/v14.17.0/)             |
+| Node Js    | [`17.0.1`](https://nodejs.org/en/blog/release/v17.0.1/)             |
 | Sails Js   | [`1.5.0`](https://github.com/balderdashy/sails/releases/tag/v1.5.0)   |
 | NPM        | [`6.14.4`](https://www.npmjs.com/package/npm/v/6.14.4  )              |
 | NVM *      | [`0.35.0`](https://github.com/nvm-sh/nvm/releases/tag/v0.35.0)        |
