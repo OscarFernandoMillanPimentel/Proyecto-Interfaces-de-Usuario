@@ -26,7 +26,7 @@ Repositorio para el Proyecto del Curso de Interfaces de Usuario
 
 
 
-* An optional Node Version Manager
+* Opcional Node Version Manager
 
 ## Ejecutar-el-proyecto
 
