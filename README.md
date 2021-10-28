@@ -5,7 +5,7 @@ Repositorio para el Proyecto del Curso de Interfaces de Usuario
 
 - [Integrantes](#Integrantes)
 - [Requirements](#Requisitos)
-- [Ejecutar el proyecto](#Ejecutar el proyecto)
+- [Ejecutar el proyecto](#ejecutar el proyecto)
 
 ## Integrantes
 
