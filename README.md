@@ -17,12 +17,12 @@ Repositorio para el Proyecto del Curso de Interfaces de Usuario
 
 ## Requisitos
 
-| Tecnologia | Versión                                                               | Release Date  |
-|------------|-----------------------------------------------------------------------|---------------|
-| Node Js    | [`14.17.0`](https://nodejs.org/en/blog/release/v14.17.0/)             |  2021 May 11  |
-| Sails Js   | [`1.2.4`](https://github.com/balderdashy/sails/releases/tag/v1.2.4)   |  2020 Jul 14  | 
-| NPM        | [`6.14.13`](https://www.npmjs.com/package/npm/v/6.14.13)              |  2021 Apr 12  |
-| NVM *      | [`0.35.0`](https://github.com/nvm-sh/nvm/releases/tag/v0.35.0)        |  2019 Oct 01  |
+| Tecnologia | Versión                                                               |
+|------------|-----------------------------------------------------------------------|
+| Node Js    | [`14.17.0`](https://nodejs.org/en/blog/release/v14.17.0/)             |
+| Sails Js   | [`1.5.0`](https://github.com/balderdashy/sails/releases/tag/v1.5.0)   |
+| NPM        | [`6.14.4`](https://www.npmjs.com/package/npm/v/6.14.4  )              |
+| NVM *      | [`0.35.0`](https://github.com/nvm-sh/nvm/releases/tag/v0.35.0)        |
 
 
 
