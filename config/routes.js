@@ -19,10 +19,8 @@ module.exports.routes = {
   *                                                                          *
   ***************************************************************************/
 
-  '/': { view: 'pages/homepage' },
-
-  'GET /prueba': { action: 'pages/prueba' }
-
+   '/': { view: 'pages/homepage' },
+   '/vista': { view: 'proyecto/index' },
 
   /***************************************************************************
   *                                                                          *
@@ -37,3 +35,5 @@ module.exports.routes = {
 
 
 };
+
+// '/': { view: 'pages/homepage' },
