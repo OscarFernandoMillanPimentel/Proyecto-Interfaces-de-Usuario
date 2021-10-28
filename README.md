@@ -5,7 +5,7 @@ Repositorio para el Proyecto del Curso de Interfaces de Usuario
 
 - [Integrantes](#Integrantes)
 - [Requirements](#Requisitos)
-- [Ejecutar el proyecto](#Ejecutar-el-proyecto)
+- [Ejecutar el proyecto](#Ejecutar el proyecto)
 
 ## Integrantes
 
@@ -28,7 +28,7 @@ Repositorio para el Proyecto del Curso de Interfaces de Usuario
 
 * An optional Node Version Manager
 
-## Ejecutar-el-proyecto
+## Ejecutar el proyecto
 
 1. Clonar el repositorio
 
